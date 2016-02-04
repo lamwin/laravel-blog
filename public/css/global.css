@@ -1,0 +1,21 @@
+.category-line:last-child{
+	border: none;
+}
+
+.not-button{
+	background-color: none;
+	border: none;
+	background: none;
+	font-size: 17px !important;
+	color: #008cba;
+	padding: 0px !important;
+}
+
+.not-button:hover{
+	background: none;
+	color: #0078a0;
+}
+
+.vertical-divider{
+	color: #d9dce1;
+}
